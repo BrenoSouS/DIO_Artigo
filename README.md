@@ -1,5 +1,5 @@
 # DIO_Artigo
-
+Link do Artigo: https://web.dio.me/articles/simplifique-e-interaja-transformando-programas-python-com-tkinter?back=%2Farticles&open-modal=true&page=1&order=oldest
 comandos utilizados: 
 
 -Crie um Artigo sobre criação de interfaces gráficas com python utilizando o framework Tkinter. comporte-se como um escritor de artigos tech sobre interfaces gráficas ,e escreva o artigo atendendo as regras abaixo.
